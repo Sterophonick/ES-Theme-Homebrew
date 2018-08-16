@@ -1,0 +1,9 @@
+<theme>
+    <formatVersion>4</formatVersion>
+	<view name="system">
+		<image name="sels" extra="true">
+			<path>./selsys.png</path>
+    		</image>
+	</view>
+</theme>
+
