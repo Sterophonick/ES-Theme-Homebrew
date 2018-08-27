@@ -1,11 +1,11 @@
 ES-Theme-Homebrew
 ________________________________
 
-My custom RetroPie/EmulationStation theme.
+My custom RetroPie/EmulationStation theme, based on simplelight by Recalbox.
 
 When this theme is finished, the background will show a blurred screenshot of a homebrew game for that specific system.
 
-This theme works for both RetroPie and RecalBox.
+This theme works for both RetroPie and Recalbox.
 
 This theme also has custom presets for certain screen aspect ratios.
 
