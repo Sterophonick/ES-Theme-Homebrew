@@ -40,6 +40,7 @@ Cave Story
 Tandy CoCo
 Colecovision
 Daphne
+Dragon 32
 Dreamcast
 Final-Burn Alpha
 Macromedia Flash
@@ -51,6 +52,7 @@ Gamecube
 GamePark GP32
 Game And Watch
 Intellivision
+Kodi Media Center
 Love2D
 Lutro
 Macintosh
@@ -79,6 +81,7 @@ Playstation Portable
 Playstation
 ResidualVM
 RetroPie Configuration
+Sam Coupe
 Sega Saturn
 Scratch
 ScummVM
@@ -91,6 +94,8 @@ TI-99/4A
 TRS-80
 Vectrex
 VirtualBoy
+Nintendo Wii
+Nintendo Wii U
 Windows
 Wonderswan
 Wonderswan Color
