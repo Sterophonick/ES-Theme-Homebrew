@@ -31,6 +31,9 @@ Atari Jaguar CD
 Atari Lynx
 Atari ST
 Atari XE
+All Games
+Favorites
+Last Played
 BBC Micro
 Commodore 64
 Cave Story
