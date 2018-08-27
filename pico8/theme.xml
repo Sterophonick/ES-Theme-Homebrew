@@ -14,7 +14,7 @@
       <path>./art/pico8_art_blur.jpg</path>
     </image>
     <image name="logo">
-      <path>./art/pico8</path>
+      <path>./art/pico8.png</path>
     </image>
     <helpsystem name="help">
       <textColor>00000077</textColor>
