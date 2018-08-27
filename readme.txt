@@ -36,7 +36,7 @@ Favorites
 Last Played
 BBC Micro
 Commodore 64
-Cave Story
+Channel F
 Tandy CoCo
 Colecovision
 Daphne
