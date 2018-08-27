@@ -90,6 +90,7 @@ Sega CD
 Sega SG-1000
 Super Nintendo Entertainment System
 SuperGrafx
+Nintendo Switch
 TI-99/4A
 TRS-80
 Vectrex
