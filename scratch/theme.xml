@@ -14,7 +14,7 @@
       <path>./art/sb2_art_blur.jpg</path>
     </image>
     <image name="logo">
-      <path>./art/sb2.png</path>
+      <path>./art/sb2.svg</path>
     </image>
     <helpsystem name="help">
       <textColor>FFFFFF77</textColor>
@@ -26,7 +26,7 @@
       <path>./art/sb2_art_blur.jpg</path>
     </image>
     <image name="logo">
-      <path>./art/sb2.png</path>
+      <path>./art/sb2.svg</path>
       <pos>0.5 0.079</pos>
       <maxSize>0.45 0.1</maxSize>
       <origin>0.5 0.5</origin>
