@@ -13,6 +13,8 @@ It is a bit resource heavy, but it works.
 
 I am working on reducing the load time by replacing SVG graphics with graphics from ES-Theme-Pixel.
 
+Now migrated to GitLab!
+
 This theme supports the following systems:
 Panasonic 3DO
 Nintendo 3DS
