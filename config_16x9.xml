@@ -11,7 +11,12 @@ license:		creative commons CC-BY-NC-SA
     <formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+    <image name="console" extra="true">
+			<pos>0.02 0.30</pos>
+			<maxSize>0.25 0.25</maxSize>
+			<origin>0 1</origin>
+    </image>
+
 		<image name="background" extra="true">
 			<size>0 1</size>
 			<pos>0.5 0.5</pos>
@@ -23,8 +28,31 @@ license:		creative commons CC-BY-NC-SA
 			<fontSize>0.033</fontSize>
 		</helpsystem>
 	</view>
+  <view name="basic">
+    <textlist name="gamelist">
+      <pos>0.025 0.22</pos>
+      <size>0.950 0.68</size>
+      <alignment>center</alignment>
+      <horizontalMargin>0.01</horizontalMargin>
+    </textlist>
+		<textlist name="gamelist">
+			<selectorColor>393a3b</selectorColor>
+			<selectedColor>97999b</selectedColor>
+			<primaryColor>393a3b</primaryColor>
+			<secondaryColor>000000</secondaryColor>
+			<fontPath>./art/UpheavalPro.ttf</fontPath>
+			<fontSize>0.050</fontSize>
+			<forceUppercase>1</forceUppercase>
+			<scrollSound>./art/scroll.wav</scrollSound>
+		<selectorImageTile>false</selectorImageTile>
+		<selectorOffsetY>0.0</selectorOffsetY>
+		<selectorHeight>0.06</selectorHeight>
+		<selectorColor>ffffff</selectorColor>
+		</textlist>
 
-    <view name="basic, detailed">
+  </view>
+
+    <view name="basic, detailed, video">
 		<helpsystem name="help">
 			<pos>0.012 0.956</pos>
 			<fontPath>./art/hachicro_0.TTF</fontPath>
@@ -32,6 +60,12 @@ license:		creative commons CC-BY-NC-SA
 			<textColor>000000</textColor>
 			<iconColor>000000</iconColor>
 		</helpsystem>
+    <image name="logo">
+      <pos>0.5 0.079</pos>
+      <maxSize>0.45 0.1</maxSize>
+      <origin>0.5 0.5</origin>
+    </image>
+
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
 			<color>393a3b</color>
 			<forceUppercase>0</forceUppercase>
@@ -47,14 +81,6 @@ license:		creative commons CC-BY-NC-SA
 			<fontSize>0.06</fontSize>
 			<size>0.14 0.04</size>
 		</text>
-		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
-			<color>262626</color>
-			<alignment>left</alignment>
-			<fontPath>./art/5Computers-In-Love.ttf</fontPath>
-			<fontSize>0.02</fontSize>
-			<size>0.4 0.03</size>
-		</text>
-
 
 		<text name="md_description">
 			<color>393a3b</color>
@@ -85,40 +111,15 @@ license:		creative commons CC-BY-NC-SA
                         <path>./art/white40.png</path>
                 </image>
 
-		<textlist name="gamelist">
-			<selectorColor>393a3b</selectorColor>
-			<selectedColor>97999b</selectedColor>
-			<primaryColor>393a3b</primaryColor>
-			<secondaryColor>000000</secondaryColor>
-			<fontPath>./art/UpheavalPro.ttf</fontPath>
-			<fontSize>0.050</fontSize>
-			<forceUppercase>1</forceUppercase>
-			<scrollSound>./art/scroll.wav</scrollSound>
-		<selectorImagePath>./art/selector-basic.png</selectorImagePath>
-		<selectorImageTile>false</selectorImageTile>
-		<selectorOffsetY>0.0</selectorOffsetY>
-		<selectorHeight>0.06</selectorHeight>
-		<selectorColor>ffffff</selectorColor>
-		</textlist>
 		<image name="header" extra="true">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 0</size>
 			<path>./art/white80_16x9.png</path>
 		</image>
-
-		<image name="footer" extra="true">
-			<pos>0 1</pos>
-			<origin>0 1</origin>
-			<size>1 0.065</size>
-			<path>./art/footer_16x9.jpg</path>
-		</image>
 	</view>
 
-	<view name="basic">
-	</view>
-
-	<view name="detailed">
+	<view name="detailed, video">
  		<!--<image name="bggreye" extra="true">
                         <path>./white.png</path>
                         <pos>0 0</pos>
@@ -126,6 +127,14 @@ license:		creative commons CC-BY-NC-SA
                         <maxSize>1 1</maxSize>
                         <origin>0 0</origin>
                 </image>-->		
+	</view>
+	<view name="basic,detailed,video">
+		<image name="footer" extra="true">
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<size>1 0.065</size>
+			<path>./art/footer_16x9.jpg</path>
+		</image>
 	</view>
 	
 </theme>
