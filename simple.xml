@@ -1,3 +1,11 @@
 <theme>
 	<include>./config_16x9.xml</include>
+	<view name="system">
+      <text name="systemInfo">
+         <backgroundColor>FF00007F</backgroundColor>
+         <color>000000FF</color>
+         <fontPath>./art/UpheavalPro.ttf</fontPath>
+      </text>
+	</view>
+
 </theme>

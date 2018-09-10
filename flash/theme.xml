@@ -3,7 +3,7 @@
   <include>./../simple.xml</include>
   <view name="system">
     <image name="console" extra="true">
-			<path>./art/console.svg</path>
+			<path>./art/console.png</path>
 			<pos>0.02 0.30</pos>
 			<maxSize>0.25 0.25</maxSize>
 			<origin>0 1</origin>
@@ -12,7 +12,7 @@
       <path>./art/swf_art_blur.jpg</path>
     </image>
     <image name="logo">
-      <path>./art/swf.svg</path>
+      <path>./art/swf.png</path>
     </image>
     <helpsystem name="help">
       <textColor>00000077</textColor>
@@ -24,7 +24,7 @@
       <path>./art/swf_art_blur.jpg</path>
     </image>
     <image name="logo">
-      <path>./art/swf.svg</path>
+      <path>./art/swf.png</path>
       <pos>0.5 0.079</pos>
       <maxSize>0.45 0.1</maxSize>
       <origin>0.5 0.5</origin>

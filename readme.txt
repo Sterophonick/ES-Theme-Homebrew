@@ -5,15 +5,13 @@ My custom RetroPie/EmulationStation theme, based on simplelight by Recalbox.
 
 When this theme is finished, the background will show a blurred screenshot of a homebrew game for that specific system.
 
-This theme works for both RetroPie and Recalbox.
+This theme works for both RetroPie and Recalbox, but primarily RetroPie.
 
 This theme also has custom presets for certain screen aspect ratios.
 
 It is a bit resource heavy, but it works.
 
 I am working on reducing the load time by replacing SVG graphics with graphics from ES-Theme-Pixel.
-
-Now migrated to GitLab!
 
 This theme supports the following systems:
 Panasonic 3DO
@@ -38,6 +36,7 @@ Favorites
 Last Played
 BBC Micro
 Commodore 64
+Phillips CD-i
 Channel F
 Tandy CoCo
 Colecovision
@@ -93,7 +92,8 @@ Sega SG-1000
 Super Nintendo Entertainment System
 SuperGrafx
 Nintendo Switch
-TI-99/4A
+Texas Instruments TI-99/4A
+Thomson TO8
 TRS-80
 Vectrex
 VirtualBoy
