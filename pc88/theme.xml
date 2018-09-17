@@ -12,7 +12,7 @@
       <path>./art/pc88_art_blur.jpg</path>
     </image>
     <image name="logo">
-      <path>./art/pc88.vwg</path>
+      <path>./art/pc88.svg</path>
     </image>
     <helpsystem name="help">
       <textColor>00000077</textColor>
