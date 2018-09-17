@@ -71,6 +71,7 @@ Neo Geo Pocket / Neo Geo Pocket Color
 Magnovox Odyssey2 / Videopac
 Oric-1
 MS-DOS
+PC-88
 PC-Engine
 PC-Engine CD
 PC-FX
@@ -97,6 +98,7 @@ Thomson TO8
 TRS-80
 Vectrex
 VirtualBoy
+Visual Memory Unit
 Nintendo Wii
 Nintendo Wii U
 Windows
