@@ -7,4 +7,10 @@
          <fontPath>./art/UpheavalPro.ttf</fontPath>
       </text>
 	</view>
+	<sound name="launch">
+		<path>./art/launch.wav</path>
+	</sound>
+	<sound name="systemscroll">
+		<path>./art/systemscroll.wav</path>
+	</sound>
 </theme>
