@@ -1,0 +1,35 @@
+<theme>
+  <formatVersion>4</formatVersion>
+  <include>./../theme.xml</include>
+  <view name="system">
+    <image name="console" extra="true">
+			<path>./console.png</path>
+			<pos>0.25 0.2</pos>
+			<maxSize>0.300 0.300</maxSize>
+			<tile>false</tile>
+			<origin>0.5 0.5</origin>
+    </image>
+    <image name="console2" extra="true">
+			<path>./console2.png</path>
+			<pos>0.75 0.2</pos>
+			<maxSize>0.300 0.300</maxSize>
+			<tile>false</tile>
+			<origin>0.5 0.5</origin>
+    </image>
+
+    <image name="background" extra="true">
+      <path>./bg.jpg</path>
+    </image>
+    <image name="logo">
+      <path>./logo.png</path>
+    </image>
+  </view>
+  <view name="basic, detailed">
+    <image name="background">
+      <path>./bg.jpg</path>
+    </image>
+    <image name="logo">
+      <path>./logo.png</path>
+    </image>
+  </view>
+</theme>

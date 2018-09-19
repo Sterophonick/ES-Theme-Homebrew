@@ -1,0 +1,27 @@
+<theme>
+  <formatVersion>4</formatVersion>
+  <include>./../theme.xml</include>
+  <view name="system">
+    <image name="console" extra="true">
+	<path>./console.svg</path>
+			<pos>0.02 0.30</pos>
+			<maxSize>0.25 0.25</maxSize>
+			<origin>0 1</origin>
+
+    </image>
+    <image name="background" extra="true">
+      <path>./bg.jpg</path>
+    </image>
+    <image name="logo">
+      <path>./logo.svg</path>
+    </image>
+  </view>
+  <view name="basic, detailed">
+    <image name="background">
+      <path>./bg.jpg</path>
+    </image>
+    <image name="logo">
+      <path>./logo.svg</path>
+    </image>
+  </view>
+</theme>
