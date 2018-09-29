@@ -18,7 +18,7 @@
     </image>
 
     <image name="background" extra="true">
-      <path>./bg.jpg</path>
+      <path>./bg.png</path>
     </image>
     <image name="logo">
       <path>./logo.png</path>
@@ -26,7 +26,7 @@
   </view>
   <view name="basic, detailed">
     <image name="background">
-      <path>./bg.jpg</path>
+      <path>./bg.png</path>
     </image>
     <image name="logo">
       <path>./logo.png</path>
