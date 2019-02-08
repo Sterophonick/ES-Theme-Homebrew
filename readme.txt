@@ -35,6 +35,7 @@ All Games
 Favorites
 Last Played
 BBC Micro
+Chip-8
 Commodore 64
 Phillips CD-i
 Channel F
@@ -54,6 +55,7 @@ GamePark GP32
 Game And Watch
 Intellivision
 Kodi Media Center
+Liko-12
 Love2D
 Lutro
 Macintosh
@@ -104,8 +106,12 @@ Nintendo Wii U
 Windows
 Wonderswan
 Wonderswan Color
+Sharp X1
 Sharp X68000
 Microsoft Xbox
+Xbox 360
 Infocom / ZMachine
 Sinclair ZX81
 Sinclair ZX Spectrum
+Sharp MZ-700
+Watara Supervision
