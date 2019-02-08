@@ -116,3 +116,4 @@ Sinclair ZX Spectrum
 Sharp MZ-700
 Watara Supervision
 V-Smile
+TimeTop GameKing
