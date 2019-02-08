@@ -115,3 +115,4 @@ Sinclair ZX81
 Sinclair ZX Spectrum
 Sharp MZ-700
 Watara Supervision
+V-Smile
