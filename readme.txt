@@ -127,3 +127,4 @@ Casio Loopy
 Gizmondo
 Leapster
 Bandai Playdia
+Casio PV-1000
