@@ -128,3 +128,4 @@ Gizmondo
 Leapster
 Bandai Playdia
 Casio PV-1000
+Sega SC-3000
