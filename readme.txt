@@ -125,3 +125,5 @@ RCA Studio II
 Entex Adventure Vision
 Casio Loopy
 Gizmondo
+Leapster
+Bandai Playdia
