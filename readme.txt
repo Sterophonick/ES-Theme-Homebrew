@@ -126,3 +126,4 @@ Bandai Playdia
 Casio PV-1000
 Sega SC-3000
 GP2X
+PlayStation Vita
