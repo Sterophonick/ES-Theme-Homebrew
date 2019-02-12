@@ -111,7 +111,7 @@ Sinclair ZX81
 Sinclair ZX Spectrum
 Sharp MZ-700
 Watara Supervision
-V-Smile
+V.Smile
 TimeTop GameKing
 Emerson Arcadia 2001
 Bally Astrocade
@@ -125,3 +125,4 @@ Leapster
 Bandai Playdia
 Casio PV-1000
 Sega SC-3000
+GP2X
