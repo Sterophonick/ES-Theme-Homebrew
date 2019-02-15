@@ -10,123 +10,124 @@ This theme works for both RetroPie and Recalbox, but primarily RetroPie.
 This theme also has custom presets for certain screen aspect ratios.
 
 This theme supports the following systems:
-Panasonic 3DO
-Nintendo 3DS
-Adventure Game Studio
-Commodore Amiga
-Amstrad CPC
-Apple IIe
-Arcade
-Atari 800
-Atari 2600
-Atari 5200
-Atari 7800
-Atari Falcon
-Atari Jaguar
-Atari Jaguar CD
-Atari Lynx
-Atari ST
-Atari XE
-All Games
-Favorites
-Last Played
-BBC Micro
-Chip-8
-Commodore 64
-Phillips CD-i
-Channel F
-Tandy CoCo
-Colecovision
-Daphne
-Dragon 32
-Dreamcast
-Final-Burn Alpha
-Macromedia Flash
-Game Gear
-Game Boy
-Game Boy Advance
-Game Boy Color
-Gamecube
-GamePark GP32
-Game And Watch
-Intellivision
-Kodi Media Center
-Liko-12
-Love2D
-Lutro
-Macintosh
-Mame
-Sega Master System
-Sega Mega Drive
-Moonlight Steam Streaming
-MSX
-Nintendo 64
-Nintendo DS
-Neo Geo
-Neo Geo CD
-Nintendo Entertainment System
-Neo Geo Pocket / Neo Geo Pocket Color
-Magnovox Odyssey2 / Videopac
-Oric-1
-MS-DOS
-PC-88
-PC-Engine
-PC-Engine CD
-PC-FX
-Pico-8
-Pokemon Mini
-Ports
-Playstation 2
-Playstation Portable
-Playstation
-ResidualVM
-RetroPie Configuration
-Sam Coupe
-Sega Saturn
-Scratch
-ScummVM
-Sega 32x
-Sega CD
-Sega SG-1000
-Super Nintendo Entertainment System
-SuperGrafx
-Nintendo Switch
-Texas Instruments TI-99/4A
-Thomson TO8
-TRS-80
-Vectrex
-VirtualBoy
-Visual Memory Unit
-Nintendo Wii
-Nintendo Wii U
-Windows
-Wonderswan
-Wonderswan Color
-Sharp X1
-Sharp X68000
-Microsoft Xbox
-Xbox 360
-Infocom / ZMachine
-Sinclair ZX81
-Sinclair ZX Spectrum
-Sharp MZ-700
-Watara Supervision
-V.Smile
-TimeTop GameKing
-Emerson Arcadia 2001
-Bally Astrocade
-Super A'Can
-PlayStation 4
-RCA Studio II
-Entex Adventure Vision
-Casio Loopy
-Gizmondo
-Leapster
-Bandai Playdia
-Casio PV-1000
-Sega SC-3000
-GP2X
-PlayStation Vita
-VTech CreatiVision
-Epoch Game Pocket Computer
-Dragon64
+Panasonic 3DO (3do)
+Nintendo 3DS (3ds)
+Super A'Can (acan)
+Entex AdventureVision (advision)
+Adventure Game Studio (ags)
+Commodore Amiga (amiga)
+Amstrad CPC (amstradcpc)
+Apple][ (apple2)
+Arcade (arcade)
+Arcadia 2001 (arcadia)
+Bally Professional Arcade (astrocde)
+Atari 800 (atari800)
+Atari 2600 (atari2600)
+Atari 5200 (atari5200)
+Atari 7800 (atari7800)
+Atari Falcon (atarifalcon)
+Atari Jaguar (atarijaguar)
+Atari Jaguar CD (atarijaguarcd)
+Atari Lynx (atari lynx)
+Atari ST (atarist)
+Atari XE (atarixe)
+BBC Micro (bbcmicro)
+Commodore 64 (c64)
+Casio Loopy (casloopy)
+Philips CD-i (cdimono1)
+Fairchild Channel-F (channelf)
+Chip-8 (chip8)
+Tandy Color Computer (coco)
+ColecoVision (colecovision)
+VTech CreatiVision (creativision)
+Daphne (daphne)
+Dragon32 (dragon32)
+Dragon64 (Dragon64)
+Dreamcast (dreamcast)
+Final-Burn-Alpha (fba)
+Macromedia/Adobe Flash (flash)
+Tiger Game.com (gamecom)
+Sega Game Gear (gamegear)
+TimeTop GameKing (gameking)
+Epoch Game Pocket Computer (gamepock)
+Game Boy (gb)
+Game Boy Advance (gba)
+Game Boy Color (gbc)
+Gamecube (gc)
+Gizmondo (gizmondo)
+GamePark GP2X (gp2x)
+GamePark GP32 (gp32)
+Game & Watch (gw)
+Mattel Intellivision (intellivision)
+Kodi Media Center (kodi)
+LeapFrog Leapster (leapster)
+Liko-12 Fantasy Console (liko12)
+Love2D (love)
+Lutro (lutro)
+Macintosh (macintosh)
+M.A.M.E (mame)
+Sega Master System (mastersystem)
+Sega Mega Drive/Genesis (megadrive)
+Moonlight Steam Streaming (moonlight)
+MSX (msx)
+Sharp MZ-700 (mz700)
+Nintendo 64 (n64)
+Nintendo DS (nds)
+SNK Neo-Geo (neogeo)
+SNK Neo-Geo CD (neogeocd)
+NES (nes)
+Neo Geo Pocket (ngp)
+Neo Geo Pocket Color (ngpc)
+Odyssey2 / Videopac (odyssey2)
+Oric-1 (oric1)
+MS-DOS (pc)
+NEC PC-8801 (pc8801)
+NEC PC-9801 (pc9801)
+NEC PC-Enigne/TurboGrafx-16 (pcengine)
+NEC PC-Engine CD (pcenginecd)
+NEC PC-FX (pcfx)
+Pico-8 (pico8)
+Bandai Playdia (playdia)
+Pokemon Mini (pokemini)
+Ports (ports)
+Playstation 2 (ps2)
+Playstation 3 (ps3)
+Playstation 4 (ps4)
+Playstation Portable (psp)
+Playstation Vita (psvita)
+Playstation (psx)
+Casio PV-1000 (pv1000)
+ResidualVM (residualvm)
+Retropie Config (retropie)
+Sam Coupe (samcoupe)
+Sega Saturn (saturn)
+Sega SC-3000 (sc3000)
+Scratch (scratch)
+ScummVM (scummvm)
+Sega 32X (sega32x)
+Sega CD (segacd)
+Sega SG-1000 (sg1000 / sg-1000)
+SNES (snes)
+RCA Studio II (studio2)
+SuperGrafx (supergrafx)
+Watara Supervision (svision)
+Nintendo Switch (switch)
+TI-99/4A (ti99)
+Thomson TO8 (to8)
+RadioShack TRS-80 (trs80)
+Vectrex (vectrex)
+Virtual Boy (virtualboy)
+Visual Memory Unit (vmu)
+VTech V.Smile (vsmile)
+Nintendo Wii (wii)
+Nintendo Wii U (wiiu)
+Microsoft Windows (windows)
+Bandai WonderSwan (wonderswan)
+Bandai WonderSwan Color (wonderswancolor)
+Sharp X1 (x1)
+Sharp X68000 (x68000)
+Microsoft Xbox (xbox)
+Microsoft Xbox 360 (xbox360)
+Infocom/Zmachine (zmachine)
+Sinclair ZX81 (zx81)
+Sinclair ZX Spectrum (zxspectrum)
