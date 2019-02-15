@@ -128,3 +128,5 @@ Sega SC-3000
 GP2X
 PlayStation Vita
 VTech CreatiVision
+Epoch Game Pocket Computer
+Dragon64
